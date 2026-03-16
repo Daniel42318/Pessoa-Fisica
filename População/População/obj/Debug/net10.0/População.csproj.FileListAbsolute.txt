@@ -12,3 +12,31 @@ C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\refint\Pop
 C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\População.pdb
 C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\População.genruntimeconfig.cache
 C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\ref\População.dll
+D:\2º Ano\POO\População\População\bin\Debug\net10.0\População.exe
+D:\2º Ano\POO\População\População\bin\Debug\net10.0\População.deps.json
+D:\2º Ano\POO\População\População\bin\Debug\net10.0\População.runtimeconfig.json
+D:\2º Ano\POO\População\População\bin\Debug\net10.0\População.dll
+D:\2º Ano\POO\População\População\bin\Debug\net10.0\População.pdb
+D:\2º Ano\POO\População\População\obj\Debug\net10.0\População.GeneratedMSBuildEditorConfig.editorconfig
+D:\2º Ano\POO\População\População\obj\Debug\net10.0\População.AssemblyInfoInputs.cache
+D:\2º Ano\POO\População\População\obj\Debug\net10.0\População.AssemblyInfo.cs
+D:\2º Ano\POO\População\População\obj\Debug\net10.0\População.csproj.CoreCompileInputs.cache
+D:\2º Ano\POO\População\População\obj\Debug\net10.0\População.dll
+D:\2º Ano\POO\População\População\obj\Debug\net10.0\refint\População.dll
+D:\2º Ano\POO\População\População\obj\Debug\net10.0\População.pdb
+D:\2º Ano\POO\População\População\obj\Debug\net10.0\População.genruntimeconfig.cache
+D:\2º Ano\POO\População\População\obj\Debug\net10.0\ref\População.dll
+F:\2º Ano\POO\População\População\bin\Debug\net10.0\População.exe
+F:\2º Ano\POO\População\População\bin\Debug\net10.0\População.deps.json
+F:\2º Ano\POO\População\População\bin\Debug\net10.0\População.runtimeconfig.json
+F:\2º Ano\POO\População\População\bin\Debug\net10.0\População.dll
+F:\2º Ano\POO\População\População\bin\Debug\net10.0\População.pdb
+F:\2º Ano\POO\População\População\obj\Debug\net10.0\População.GeneratedMSBuildEditorConfig.editorconfig
+F:\2º Ano\POO\População\População\obj\Debug\net10.0\População.AssemblyInfoInputs.cache
+F:\2º Ano\POO\População\População\obj\Debug\net10.0\População.AssemblyInfo.cs
+F:\2º Ano\POO\População\População\obj\Debug\net10.0\População.csproj.CoreCompileInputs.cache
+F:\2º Ano\POO\População\População\obj\Debug\net10.0\População.dll
+F:\2º Ano\POO\População\População\obj\Debug\net10.0\refint\População.dll
+F:\2º Ano\POO\População\População\obj\Debug\net10.0\População.pdb
+F:\2º Ano\POO\População\População\obj\Debug\net10.0\População.genruntimeconfig.cache
+F:\2º Ano\POO\População\População\obj\Debug\net10.0\ref\População.dll

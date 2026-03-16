@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\População\População\bin\Debug\net10.0\População.exe
+C:\Users\Aluno\source\repos\População\População\bin\Debug\net10.0\População.deps.json
+C:\Users\Aluno\source\repos\População\População\bin\Debug\net10.0\População.runtimeconfig.json
+C:\Users\Aluno\source\repos\População\População\bin\Debug\net10.0\População.dll
+C:\Users\Aluno\source\repos\População\População\bin\Debug\net10.0\População.pdb
+C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\População.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\População.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\População.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\População.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\População.dll
+C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\refint\População.dll
+C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\População.pdb
+C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\População.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\População\População\obj\Debug\net10.0\ref\População.dll
